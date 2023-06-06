@@ -16,8 +16,8 @@ Then, when you are done, please put a test case for your answers. For example, i
 6. Create a function that receives an array of numbers of diverse numbers and returns an array containing only positive numbers.
 7. Write a program that prints the numbers from 1 to 100. But for multiples of 3 prints "Fizz" instead of the number and for the multiples of 5 prints "Buzz". For numbers which are multiples of both 3 and 5 prints "FizzBuzz".
 8. The marketing team is spending way too much time typing in hashtags. Let’s create a hashtag generator for them, our hashtag generator will meet the following criteria; 
-It must start with a hash symbol, #.
-Ignore all spaces in the input.
-All words must have their first letter capitalized.
-If the final result is going to be longer than 140 characters, it should return false.
-If the input or result is an empty string, it should return false.
+- It must start with a hash symbol, #.
+- Ignore all spaces in the input.
+- All words must have their first letter capitalized.
+- If the final result is going to be longer than 140 characters, it should return false.
+- If the input or result is an empty string, it should return false.
